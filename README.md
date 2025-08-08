@@ -1,16 +1,29 @@
-## Hi there 👋
+**`Digital Craftsman (Developer/Artist/Poet)`**
 
-<!--
-**rel-exe/rel-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+ <summary><h3>👨‍💻 rel-exe's coding journey</h3></summary>
+ <p>I began my coding journey back in 9th grade when I chose ICT as my TLE elective. My fascination with technology—especially computers—and the endless possibilities of programming instantly captured my interest. From that moment, I was captivated.
 
-Here are some ideas to get you started:
+As I continued this journey through my college years, I pursued a Bachelor of Science in Information Systems and am now in my third year. Along the way, I’ve grown into an aspiring web developer, app and game developer, and cybersecurity enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about exploring many areas of technology because I want to create a lot of meaningful things and leave my mark on the world. This GitHub portfolio is a snapshot of my growth, my projects, and my ongoing adventure in tech.
+</p>
+</details>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rel-exe.rel-exe"  />
+</div>
+
+## 📊 Statistics:
+![rel-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rel-exe&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rel-exe&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+### 🧰 Languages and Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
