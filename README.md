@@ -11,10 +11,6 @@ I’m passionate about exploring many areas of technology because I want to crea
 </p>
 </details>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rel-exe.rel-exe"  />
-</div>
-
 ## 📊 Statistics:
 ![rel-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rel-exe&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rel-exe&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
