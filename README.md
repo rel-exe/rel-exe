@@ -18,9 +18,11 @@ I’m passionate about exploring many areas of technology because I want to crea
 
 ### 🛠️ Currently Building / Learning
 <p>
- - Exploring React & Tailwind CSS<br>
- - Learning cybersecurity principles
- - Software Quality Assurance
+
+- Exploring **React** & **Tailwind CSS**<br>
+- Learning **Cybersecurity Principles**<br>
+- Studying **Software Quality Assurance (SQA)**
+
 </p>
 
 ### 🧰 Languages and Tools
