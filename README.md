@@ -20,6 +20,7 @@ I’m passionate about exploring many areas of technology because I want to crea
 <p>
  - Exploring React & Tailwind CSS<br>
  - Learning cybersecurity principles
+ - Software Quality Assurance
 </p>
 
 ### 🧰 Languages and Tools
