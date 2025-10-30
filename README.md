@@ -1,4 +1,4 @@
-**`Digital Craftsman (Developer/Artist/Poet)`**
+**`Digital Craftsman (Developer/Tester/Artist/Poet)`**
 > _"A true master is an eternal student"_
 
 <details>
